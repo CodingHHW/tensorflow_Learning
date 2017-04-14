@@ -8,3 +8,4 @@ learned from [莫烦python](https://morvanzhou.github.io/tutorials/machine-learn
 - TensorFlow5.ipynb实现了基本的Tensorboard可视化
 - TensorFlow6.ipynb实现了神经网络手写体的可视化和预测
 - TensorFlow7.ipynb实现CNN卷积神经网络
+- dis_tf/train.py是分布式TensorFlow的基本使用
